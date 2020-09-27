@@ -1,7 +1,7 @@
 # NLP_Project
 This is a script I developed as my final work on NLP processing with Python.
 
-I'm currently attending to a MBA on technology on Python, R, BI and Machine Learning. One of my subjects was NLP - Natural Language Processing - which was a 16 h duration course in which I learned basic techniques on NLP that include:
+I'm currently attending to a MBA on technology with Python, R, BI and Machine Learning. One of my subjects was NLP - Natural Language Processing - which was a 16 h duration course in which I learned basic NLP techniques that include:
 - Stop Words removal;
 - Word tokenizing;
 - Word Stemming;
